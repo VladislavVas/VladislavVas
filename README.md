@@ -1,12 +1,4 @@
-### Привет! Меня зовут Владислав! <img src="https://github.com/lipis/flag-icons/blob/main/flags/4x3/ru.svg" title="ru"  alt="ru" width="20" height="20"/>&nbsp;
----
-### Мой опыт:
-### 2021 г. - курс «Инженер по тестированию» Яндекс.Практикум;
-### 2022-2023 гг. - курс «Java-разработчик» Яндекс.Практикум;
-### 2023 г. - курс «Автоматизатор тестирования на Java» Яндекс.Практикум;
-### 2023 г. - 22 волна Школы 21.
----
-### 🛠 &nbsp; Я пользуюсь и изучаю  🛠 &nbsp; 
+
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=flat&logo=intellij-idea&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=flat&logo=spring&logoColor=white)
